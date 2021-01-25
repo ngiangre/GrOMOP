@@ -2,6 +2,8 @@ GrOMOP
 --------------------
 November 2020
 
+[![DOI](https://zenodo.org/badge/332530238.svg)](https://zenodo.org/badge/latestdoi/332530238)
+
 ## Background:
 The number of individuals sequenced worldwide has grown considerably
 in the last five years, particularly as precision medicine initiatives
